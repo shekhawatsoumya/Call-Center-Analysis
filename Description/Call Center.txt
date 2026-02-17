@@ -1,0 +1,20 @@
+Call Center Performance Report
+1. Executive Summary
+The call center managed a high volume of traffic with a total of 5,000 calls. Out of these, 3,646 calls were successfully resolved, indicating a resolution rate of approximately 73%. The operation is supported by a team of 8 agents.
+2. Agent Productivity (Answering & Resolution)
+The workload is distributed relatively evenly across the team, though some performance variations exist:
+Top Answerer: Jim handled the highest volume of calls with 536 answered.
+Most Resolved: Jim also leads in resolutions with 483 calls resolved, followed closely by Becky (463).
+Resolution Efficiency: Most agents maintain a high ratio of resolved to answered calls. For example, Martha answered 514 calls and resolved 461, showing a strong completion rate.
+3. Customer Satisfaction (CSAT)
+The average satisfaction rating across the center is approximately 3.3 to 3.4.
+Peak Performers: Dan and Martha achieved the highest satisfaction ratings at 3.4.
+Areas for Improvement: Joe received the lowest average rating at 3.2, suggesting a need for targeted coaching or support.
+4. Call Topics & Volume
+Calls are categorized into four main topics: Admin Support, Contract-related, Payment-related, and Streaming.
+The volume across these topics appears consistent for most agents.
+Streaming and Payment-related issues frequently appear as high-volume categories, indicating these are the primary reasons customers are contacting support.
+5. Key Recommendations
+Investigate Joe's Performance: Analyze why Joe's satisfaction rating is lower than the team average despite handling a standard call volume.
+Reward Top Performers: Recognize Jim for high volume and Dan/Martha for maintaining peak customer satisfaction.
+Topic Analysis: Review "Streaming" and "Payment" processes to see if self-service options can reduce the high call volume in these categories.
