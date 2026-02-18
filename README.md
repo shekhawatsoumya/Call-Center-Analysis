@@ -43,15 +43,4 @@ The analysis was conducted using Excel and includes the following key components
 - **Result/**: Includes the analysis dashboard (`Call Center Dashboard.png`)
 - **Description/**: Contains detailed analysis report (`Call Center.txt`)
 
-## Viewing the Results
-To view the analysis results:
-1. Open the cleaned data file in Excel
-2. Refer to the dashboard image in the Result folder for visualizations
-3. Read the detailed report in Description/Call Center.txt
 
-## Tools Used
-- Excel (for data cleaning with Power Query and analysis)
-- Power Query Editor (for data transformation)
-
-## License
-This project is licensed under the terms specified in the LICENSE file.
